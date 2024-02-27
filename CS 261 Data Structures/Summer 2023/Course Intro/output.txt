@@ -1,0 +1,1 @@
+/usr/local/bin/python3.11 /Users/psyki/PycharmProjects/CS261_project0 system_test/system_test.py This is an acceptable version of Python, version 3.11.Process finished with exit code 0
